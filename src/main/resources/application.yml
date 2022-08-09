@@ -1,0 +1,10 @@
+#logging:
+#  level:
+#    org.redisson: TRACE
+
+spring:
+  application:
+    name: test
+  redis:
+    host: localhost
+    database: 4
